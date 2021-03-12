@@ -1,0 +1,8 @@
+// set the variable
+$primary-color: green;
+$secondary-color: white;
+
+@import 'reset';
+@import 'base';
+@import 'nav';
+@import 'content';
